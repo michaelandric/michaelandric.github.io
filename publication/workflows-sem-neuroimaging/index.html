@@ -24,11 +24,11 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/apple-touch-icon.png">
 
-  <link rel="canonical" href="https://michaelandric.github.io/publication/classification-fMRI/">
+  <link rel="canonical" href="https://michaelandric.github.io/publication/workflows-sem-neuroimaging/">
 
   
 
-  <title>Classification of inter-subject fMRI data based on graph kernels | Michael Andric</title>
+  <title>Parallel workflows for data-driven structural equation modeling in functional neuroimaging | Michael Andric</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71">
@@ -94,10 +94,10 @@
 
   <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="pub-title">
-      <h1 itemprop="name">Classification of inter-subject fMRI data based on graph kernels</h1>
+      <h1 itemprop="name">Parallel workflows for data-driven structural equation modeling in functional neuroimaging</h1>
       <span class="pub-authors" itemprop="author">
                 
-                S Vega-Pons, P Avesani, M Andric, U Hasson
+                S Kenny, M Andric, SM Boker, MC Neale, M Wilde, SL Small
                 
             </span>
       <span class="pull-right">
@@ -106,35 +106,35 @@
   <ul class="share">
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmichaelandric.github.io%2fpublication%2fclassification-fMRI%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2fmichaelandric.github.io%2fpublication%2fworkflows-sem-neuroimaging%2f"
          target="_blank">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Classification%20of%20inter-subject%20fMRI%20data%20based%20on%20graph%20kernels&amp;url=https%3a%2f%2fmichaelandric.github.io%2fpublication%2fclassification-fMRI%2f"
+         href="https://twitter.com/intent/tweet?text=Parallel%20workflows%20for%20data-driven%20structural%20equation%20modeling%20in%20functional%20neuroimaging&amp;url=https%3a%2f%2fmichaelandric.github.io%2fpublication%2fworkflows-sem-neuroimaging%2f"
          target="_blank">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmichaelandric.github.io%2fpublication%2fclassification-fMRI%2f&amp;title=Classification%20of%20inter-subject%20fMRI%20data%20based%20on%20graph%20kernels"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2fmichaelandric.github.io%2fpublication%2fworkflows-sem-neuroimaging%2f&amp;title=Parallel%20workflows%20for%20data-driven%20structural%20equation%20modeling%20in%20functional%20neuroimaging"
          target="_blank">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmichaelandric.github.io%2fpublication%2fclassification-fMRI%2f&amp;title=Classification%20of%20inter-subject%20fMRI%20data%20based%20on%20graph%20kernels"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2fmichaelandric.github.io%2fpublication%2fworkflows-sem-neuroimaging%2f&amp;title=Parallel%20workflows%20for%20data-driven%20structural%20equation%20modeling%20in%20functional%20neuroimaging"
          target="_blank">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Classification%20of%20inter-subject%20fMRI%20data%20based%20on%20graph%20kernels&amp;body=https%3a%2f%2fmichaelandric.github.io%2fpublication%2fclassification-fMRI%2f">
+         href="mailto:?subject=Parallel%20workflows%20for%20data-driven%20structural%20equation%20modeling%20in%20functional%20neuroimaging&amp;body=https%3a%2f%2fmichaelandric.github.io%2fpublication%2fworkflows-sem-neuroimaging%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -148,14 +148,14 @@
     
 
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">The analysis of human brain connectivity networks has become an increasingly prevalent task in neuroimaging. A few recent studies have shown the possibility of decoding brain states based on brain graph classification. Graph kernels have emerged as a powerful tool for graph comparison that allows the direct use of machine learning classifiers on brain graph collections. They allow classifying graphs with different number of nodes and therefore the inter-subject analysis without any kind of previous alignment of individual subject&#39;s data. Using whole-brain fMRI data, in this paper we present a method based on graph kernels that provides above-chance accuracy results for the inter-subject discrimination of two different types of auditory stimuli. We focus our research on determining whether this method is sensitive to the relational information in the data. Indeed, we show that the discriminative information is not only coming from topological features of the graphs like node degree distribution, but also from more complex relational patterns in the neighborhood of each node. Moreover, we investigate the suitability of two different graph representation methods, both based on data-driven parcellation techniques. Finally, we study the influence of noisy connections in our graphs and provide a way to alleviate this problem.</p>
+    <p class="pub-abstract" itemprop="text">We present a computational framework suitable for a data-driven approach to structural equation modeling (SEM) and describe several workflows for modeling functional magnetic resonance imaging (fMRI) data within this framework. The Computational Neuroscience Applications Research Infrastructure (CNARI) employs a high-level scripting language called Swift, which is capable of spawning hundreds of thousands of simultaneous R processes (R Development Core Team, 2008 ), consisting of self-contained SEMs, on a high performance computing system (HPC). These self-contained R processing jobs are data objects generated by OpenMx, a plug-in for R, which can generate a single model object containing the matrices and algebraic information necessary to estimate parameters of the model. With such an infrastructure in place a structural modeler may begin to investigate exhaustive searches of the model space. Specific applications of the infrastructure, statistics related to model fit, and limitations are discussed in relation to exhaustive SEM. In particular, we discuss how workflow management techniques can help to solve large computational problems in neuroimaging.</p>
 
     <div class="row">
       <div class="col-sm-1"></div>
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9">In <em>IEEE Pattern Recognition in Neuroimaging</em></div>
+          <div class="col-xs-12 col-sm-9">In <em>Frontiers in Neuroinformatics</em></div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -168,7 +168,7 @@
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
           <div class="col-xs-12 col-sm-9" itemprop="datePublished">
-            July, 2014
+            October, 2009
           </div>
         </div>
       </div>
@@ -193,12 +193,12 @@
 
 
 
-<a class="btn btn-primary btn-outline" href="https://michaelandric.github.io/project/brain-and-language/">
+<a class="btn btn-primary btn-outline" href="https://michaelandric.github.io/projects/cnari">
   Project
 </a>
 
 
-<a class="btn btn-primary btn-outline" href="http://dx.doi.org/10.1109/PRNI.2014.6858549">
+<a class="btn btn-primary btn-outline" href="https://doi.org/10.3389/neuro.11.034.2009">
   Link
 </a>
 
@@ -220,12 +220,12 @@
   <nav>
   <ul class="pager">
     
-    <li class="previous"><a href="https://michaelandric.github.io/publication/bbs-comment/"><span
-      aria-hidden="true">&larr;</span> The neurobiology of receptive-expressive language interdependence</a></li>
+    <li class="previous"><a href="https://michaelandric.github.io/publication/db-grid-nimg/"><span
+      aria-hidden="true">&larr;</span> Database-managed Grid-enabled analysis of neuroimaging data: The CNARI framework</a></li>
     
 
     
-    <li class="next"><a href="https://michaelandric.github.io/publication/contextual-disorder/">Global features of functional brain networks change with contextual disorder <span
+    <li class="next"><a href="https://michaelandric.github.io/publication/motor-mirror-disease/">Functional imaging of putative human mirror neuron systems in neurological disease <span
       aria-hidden="true">&rarr;</span></a></li>
     
   </ul>
@@ -269,11 +269,6 @@
     <script>hljs.initHighlightingOnLoad();</script>
 
     
-    
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
-    </script>
-    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
     
 
   </body>
