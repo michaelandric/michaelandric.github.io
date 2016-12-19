@@ -1,31 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication-rsses on Academic Theme</title>
-    <link>https://example.com/publication/index.xml</link>
-    <description>Recent content in Publication-rsses on Academic Theme</description>
+    <title>Publication-rsses on Michael Andric</title>
+    <link>https://michaelandric.github.io/publication/index.xml</link>
+    <description>Recent content in Publication-rsses on Michael Andric</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2016 Your Name</copyright>
-    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; 2016 Michael Andric</copyright>
+    <lastBuildDate>Tue, 02 Aug 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Repeated movie viewings produce similar local activity patterns but different network configurations</title>
+      <link>https://michaelandric.github.io/publication/repeated-movies-networks/</link>
+      <pubDate>Tue, 02 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelandric.github.io/publication/repeated-movies-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Congenital blindness is associated with large-scale reorganization of anatomical networks</title>
+      <link>https://michaelandric.github.io/publication/congenital-blindness-networks/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelandric.github.io/publication/congenital-blindness-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neural basis of hand gesture comprehension: A meta-analysis of functional magnetic resonance imaging studies</title>
+      <link>https://michaelandric.github.io/publication/meta-gesture-analysis/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelandric.github.io/publication/meta-gesture-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://example.com/publication/person-re-identification/</link>
+      <link>https://michaelandric.github.io/publication/person-re-identification/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/person-re-identification/</guid>
+      <guid>https://michaelandric.github.io/publication/person-re-identification/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>Global features of functional brain networks change with contextual disorder</title>
+      <link>https://michaelandric.github.io/publication/contextual-disorder/</link>
+      <pubDate>Sat, 15 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelandric.github.io/publication/contextual-disorder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of inter-subject fMRI data based on graph kernels</title>
+      <link>https://michaelandric.github.io/publication/classification-fMRI/</link>
+      <pubDate>Mon, 21 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelandric.github.io/publication/classification-fMRI/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mobile visual clothing search</title>
-      <link>https://example.com/publication/clothing-search/</link>
+      <link>https://michaelandric.github.io/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/publication/clothing-search/</guid>
+      <guid>https://michaelandric.github.io/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
