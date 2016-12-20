@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Andric</title>
+    <link>https://michaelandric.github.io/tags/parallel-workflows/index.xml</link>
+    <description>Recent content on Michael Andric</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Michael Andric</copyright>
+    <atom:link href="/tags/parallel-workflows/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Computational Neuroscience Applications Research Infrastructure (CNARI)</title>
+      <link>https://michaelandric.github.io/project/cnari/</link>
+      <pubDate>Wed, 10 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelandric.github.io/project/cnari/</guid>
+      <description>&lt;p&gt;Within the Computational Neuroscience Applications Research Infrastructure (CNARI) we developed a scalable framework for research and analysis that aims to manage neuroscience tools and the heterogeneous compute resources (such as Grids and clusters) on which they can be used, to enable large-scale computational projects in the neuroscience community.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

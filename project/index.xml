@@ -7,34 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Michael Andric</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Dec 2011 00:00:00 +0000</lastBuildDate>
     <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://michaelandric.github.io/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Network connectivity and organization </title>
+      <link>https://michaelandric.github.io/project/brain-networks/</link>
+      <pubDate>Sat, 10 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://michaelandric.github.io/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+      <guid>https://michaelandric.github.io/project/brain-networks/</guid>
+      <description>&lt;p&gt;This work investigates the brain&amp;rsquo;s network organization. Much of this research centers on understanding large-scale (whole-brain) networks of brain function when people engage in higher-order cognitive tasks, such as statistical learning, or processing interpersonal communication. In these studies, we developed created workflows and measures to quantify changes in the statistical properties of large-scale networks. In addition to studies of functional brain organization, we extended these measures to characterize organizational differences in anatomical network of a congenitally blind population.&lt;/p&gt;
 
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;p&gt;These measures largely derive from applications of graph theory and network science. They incorporate both original code &lt;a href=&#34;https://github.com/michaelandric/hel-con/blob/master/graph_evals.py&#34;&gt;(for example)&lt;/a&gt; and implementations of the &lt;a href=&#34;https://sites.google.com/site/bctnet/&#34;&gt;brain connectivity toolbox&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>External Project</title>
-      <link>https://michaelandric.github.io/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <title>Brain, Language, Cognition</title>
+      <link>https://michaelandric.github.io/project/brain-and-language/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://michaelandric.github.io/project/example-external-project/</guid>
-      <description></description>
+      <guid>https://michaelandric.github.io/project/brain-and-language/</guid>
+      <description>&lt;p&gt;Some of my neuroimaging research examines the ways that the brain mediates language and motor functions. My interest in this area looks at understanding the relationships between the human motor system, motor experience, and language processing. These relationships may enrich or even be integral to how the brain processes language and derives meaning.&lt;/p&gt;
+
+&lt;p&gt;My interests here also investigate figurative language processing, particularly, as it relates to interpreting conceptual meaning via metaphor and idiom. Metaphor is used throughout our language and conceptual structure. It is especially used when dealing with ideas and referential entities that are abstract and without physical form. Determining how the brain mediates these relationships may advance our understanding not only of human neurobiology, but also of human cognitive function, more generally.&lt;/p&gt;
+
+&lt;p&gt;My projects in this area investigate the brain areas - and their relationships - that respond strongly when the hands convey meaning. This includes when the hands convey meaning on their own (as emblematic gestures) and when they accompanying speech (co-speech gestures).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Computational Neuroscience Applications Research Infrastructure (CNARI)</title>
+      <link>https://michaelandric.github.io/project/cnari/</link>
+      <pubDate>Wed, 10 Sep 2008 00:00:00 +0000</pubDate>
+      
+      <guid>https://michaelandric.github.io/project/cnari/</guid>
+      <description>&lt;p&gt;Within the Computational Neuroscience Applications Research Infrastructure (CNARI) we developed a scalable framework for research and analysis that aims to manage neuroscience tools and the heterogeneous compute resources (such as Grids and clusters) on which they can be used, to enable large-scale computational projects in the neuroscience community.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

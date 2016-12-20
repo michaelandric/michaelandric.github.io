@@ -12,16 +12,6 @@
   </url>
   
   <url>
-    <loc>https://michaelandric.github.io/project/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://michaelandric.github.io/project/example-external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://michaelandric.github.io/home/about/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
   </url>
@@ -62,6 +52,16 @@
   </url>
   
   <url>
+    <loc>https://michaelandric.github.io/project/brain-networks/</loc>
+    <lastmod>2011-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelandric.github.io/project/brain-and-language/</loc>
+    <lastmod>2011-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://michaelandric.github.io/publication/lesion-gesture-object/</loc>
     <lastmod>2010-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -79,6 +79,11 @@
   <url>
     <loc>https://michaelandric.github.io/publication/db-grid-nimg/</loc>
     <lastmod>2009-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://michaelandric.github.io/project/cnari/</loc>
+    <lastmod>2008-09-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
